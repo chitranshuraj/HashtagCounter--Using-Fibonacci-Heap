@@ -1,4 +1,4 @@
-# HashtagCounter--Using-Fibonacci-Heap
+# HashtagCounter: Using Max Fibonacci-Heap and HashTable
 # Advanced Data Structure Project
 
 The project titled Hashtag Counter has been developed in java
